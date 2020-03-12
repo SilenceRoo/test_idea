@@ -34,6 +34,6 @@ import java.util.Properties;
             producer.close();
         //我第一次修改！！！！！！！！！！！！！！21：05
 
-
+	//我的第二次修改！！！！！！！！！！！！！！！21:12
         }
     }
