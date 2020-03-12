@@ -35,5 +35,17 @@ import java.util.Properties;
         //我第一次修改！！！！！！！！！！！！！！21：05
 
 	//我的第二次修改！！！！！！！！！！！！！！！21:12
+
+
+            //第三次修改
+            add(1, 1);
+
+
+        }
+
+        public static void add(int i,int j){
+            int result = i + j;
+
+            System.out.println(result);
         }
     }
