@@ -40,6 +40,8 @@ import java.util.Properties;
             //第三次修改
             add(1, 1);
 
+            System.out.println("hot fix");
+
 
         }
 
