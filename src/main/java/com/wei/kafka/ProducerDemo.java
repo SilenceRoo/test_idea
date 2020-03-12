@@ -32,5 +32,8 @@ import java.util.Properties;
                 producer.send(new ProducerRecord<String, String>("test_api",  i+"hahaha"));
             }
             producer.close();
+        //我第一次修改！！！！！！！！！！！！！！21：05
+
+
         }
     }
